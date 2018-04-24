@@ -1,0 +1,8 @@
+{
+  "name": "Klub",
+  "app_id": "ba2f76f4",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
